@@ -13,8 +13,7 @@ import javax.swing.JOptionPane;
  */
 public class NewClass1 {
      public static void main(String[] args) {
-        int[] edad;
-        edad = new int[10];
+      
         double[]precio = new  double[3];
         double acu = 0;
         
